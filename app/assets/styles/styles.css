@@ -1,0 +1,12 @@
+$blue : #000000;
+
+body {
+    color: $blue;
+    background-color: orange;
+}
+
+a {
+    b {
+        margin: 10px;
+    }
+}
